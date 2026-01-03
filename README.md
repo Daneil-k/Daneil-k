@@ -1,89 +1,316 @@
-<!-- 
-   ╔════════════════════════════════════════════════════════════╗
-   ║                  daneil-k  •  DARK CYBERPUNK               ║
-   ║         Automation • Bots • Chaos Engineering 2026         ║
-   ╚════════════════════════════════════════════════════════════╝
--->
+<div align="center">
 
-<!-- Animated gradient header (dark background friendly) -->
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Daniel%20K&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20Automation%20Architect%20|%20Innovation%20Engineer&descAlignY=55&descSize=20"/>
+
+<!-- Typing Animation with Times New Roman feel -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Digital+Space;Python+%7C+JavaScript+%7C+Java;Building+Intelligent+Automation;Crafting+Elegant+Solutions;Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```python
+class Developer:
+    def __init__(self):
+        self.username = "daneil-k"
+        self.name = "Daniel K"
+        self.role = "Full Stack Developer"
+        self.workspace = {
+            "os": "Linux",
+            "editor": "VS Code",
+            "language": ["Python", "JavaScript", "Java"],
+            "specialization": [
+                "Automation Bots",
+                "Web Development", 
+                "API Integration",
+                "Workflow Optimization"
+            ]
+        }
+        self.current_projects = [
+            "Advanced Automation Systems",
+            "Intelligent Bot Development",
+            "Scalable Web Applications"
+        ]
+    
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Code Review",
+            "afternoon": "💻 Building & Automating",
+            "evening": "🚀 Deploying Solutions",
+            "night": "📚 Learning New Tech"
+        }
+    
+    def say_hello(self):
+        print("Thanks for visiting! Let's build something extraordinary together.")
+
+daniel = Developer()
+daniel.say_hello()
+```
+
+<br clear="right"/>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technical Expertise
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Languages & Frameworks
+
 <p align="center">
-  <a href="https://capsule-render.vercel.app?type=rect&height=180&color=000000,0f001a,1a0033&text=daneil-k&font=Roboto&fontSize=70&animation=twinkling&fontColor=00ff9d&desc=Automation%20God%20%E2%80%A2%20Bot%20Architect%20%E2%80%A2%20Python%20%2F%20Node.js&descAlignY=70&descSize=24&descAlign=62">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=000000,0f001a,1a0033&text=daneil-k&font=Roboto&fontSize=70&animation=twinkling&fontColor=00ff9d&desc=Automation%20God%20%E2%80%A2%20Bot%20Architect%20%E2%80%A2%20Python%20%2F%20Node.js&descAlignY=70&descSize=24&descAlign=62" alt="header"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Areas of Excellence
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🤖 Automation Bots
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+
+• Intelligent Task Automation<br/>
+• Workflow Optimization<br/>
+• API Integration<br/>
+• Data Processing Pipelines<br/>
+• Scheduled Execution<br/>
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Web Development
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
+
+• Full-Stack Applications<br/>
+• RESTful API Design<br/>
+• Responsive UI/UX<br/>
+• Database Architecture<br/>
+• Cloud Deployment<br/>
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ System Integration
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200"/>
+
+• Third-Party APIs<br/>
+• Microservices Architecture<br/>
+• Real-time Processing<br/>
+• Performance Optimization<br/>
+• Scalable Solutions<br/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daneil-k&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+</p>
+
+</div>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Skill Proficiency
+
+</div>
+
+```text
+Python              ████████████████████░░░░░   85%
+JavaScript          ███████████████████░░░░░░   80%
+Node.js             ██████████████████░░░░░░░   75%
+Java                █████████████████░░░░░░░░   70%
+Automation          ████████████████████░░░░░   85%
+Web Development     ███████████████████░░░░░░   80%
+API Integration     ████████████████████░░░░░   85%
+Database Design     ██████████████████░░░░░░░   75%
+DevOps              ████████████████░░░░░░░░░   65%
+System Architecture ███████████████████░░░░░░   80%
+```
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 Philosophy & Approach
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
+<br/><b>Clean Code</b>
+<br/>Readable & Maintainable
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
+<br/><b>Automation First</b>
+<br/>Efficiency Through Intelligence
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l0HlPwMAzh13pcZ20/giphy.gif" width="100"/>
+<br/><b>Scalable Design</b>
+<br/>Built for Growth
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+<br/><b>Continuous Learning</b>
+<br/>Always Evolving
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/daneil-k">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-<!-- Neon status line -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online%20%F0%9F%9A%80-00ff9d?style=for-the-badge&logoColor=black&labelColor=0f001a">
-  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Bots-ff007f?style=for-the-badge&logoColor=white&labelColor=0f001a">
-  <img src="https://img.shields.io/github/followers/daneil-k?style=for-the-badge&color=00ffff&logo=github&logoColor=white&labelColor=0f001a">
-</p>
-
-<!-- Typing animation - dark theme friendly colors -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4500&pause=700&color=00ff9d&center=true&vCenter=true&width=640&lines=Turning+boring+tasks+into+one-liners;Creating+smart+automation+creatures;Python+%7C+Node.js+%7C+Java;Chaos+is+my+favorite+debugging+tool" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<!-- Main stats section - transparent + dark gradient -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=transparent&bg_color=0f001a&title_color=00ff9d&text_color=c0c0ff&icon_color=ff69b4&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=transparent&background=0f001a&border=333333&ring=ff69b4&fire=ff007f&currStreakNum=00ff9d&sideNums=c0c0ff&currStreakLabel=ff69b4&sideLabels=00ff9d&dates=c0c0ff" width="48%" alt="streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=transparent&bg_color=0f001a&title_color=00ff9d&text_color=c0c0ff&hide_border=true&border_radius=12&langs_count=8&hide=html,css" width="65%" alt="top-langs"/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Developer Wisdom
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 </div>
-
-<br>
-
-<!-- Trophies - dark compatible -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daneil-k&theme=dracula&no-frame=true&margin-w=15&margin-h=15&title_color=00ff9d&text_color=c0c0ff&icon_color=ff69b4" alt="trophies"/>
-</div>
-
-<br>
-
-<!-- Snake animation (most popular dark-mode animation) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake-dark.svg" width="85%"/>
-  </picture>
-</p>
-
-<br>
-
-<!-- Featured Projects - clean card style -->
-## 🔥 Selected Automation Demons
 
 <div align="center">
 
-| Project                              | Purpose                                  | Main Tech              | Status                     |
-|--------------------------------------|------------------------------------------|------------------------|----------------------------|
-| [Discord Mass Tool](https://github.com/daneil-k/discord-mass-dm-bot)     | Smart community / event automation       | Node.js • Puppeteer    | <img src="https://img.shields.io/github/stars/daneil-k/discord-mass-dm-bot?style=social"/> |
-| [Instagram Auto Poster](https://github.com/daneil-k/instagram-auto-poster) | Zero-touch scheduled posting             | Python • Selenium      | <img src="https://img.shields.io/github/stars/daneil-k/instagram-auto-poster?style=social"/> |
-| [Twitter/X Auto Engager](https://github.com/daneil-k/twitter-auto-engager) | Smart engagement & growth automation     | Python • Tweepy        | <img src="https://img.shields.io/github/stars/daneil-k/twitter-auto-engager?style=social"/> |
-| [LinkedIn Ghost Network](https://github.com/daneil-k/linkedin-network-bot) | Ethical network expansion                | Node.js • Playwright   | <img src="https://img.shields.io/github/stars/daneil-k/linkedin-network-bot?style=social"/> |
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 👁️ Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=daneil-k&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+### ⭐ If you find my work interesting, consider giving a star to my repositories!
 
 </div>
 
-<br>
+<div align="center">
 
-<!-- Terminal style personality block -->
-```text
-┌────────────────────────────────────────────────────────────┐
-│ daneil-k@dark-void:~$ neofetch --off                       │
-│                                                            │
-│  • OS       : Automation Addict                            │
-│  • Shell    : zsh + starship                               │
-│  • Kernel   : Python 3.11 • Node 20 • Java 21              │
-│  • Uptime   : Since first successful bot                   │
-│  • Resolution :  ∞ × ∞ chaos pixels                        │
-│  • CPU      : Overthinking at 420%                         │
-│  • Memory   : 69% memes • 31% cursed code                  │
-│                                                            │
-│  "I don't fix bugs... I just create better ones"           │
-└────────────────────────────────────────────────────────────┘
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+*"The only way to do great work is to love what you do."* — Steve Jobs
+
+**Made with ❤️ by Daniel K**
+
+</div>
