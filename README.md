@@ -222,10 +222,11 @@ me.connect()
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=📊%20Contribution%20Activity&hide_border=true&bg_color=0d1117&color=9370db&line=9370db&point=e6e6fa&area=true&area_color=9370db" width="100%"/>
 
 <!-- Contribution Snake Animation -->
+<!-- Contribution Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake-dark.svg">
 </picture>
 
 <div align="center">
