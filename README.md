@@ -50,8 +50,9 @@ class DeveloperProfile:
             "languages": ["Python", "JavaScript", "Java", "Node.js"],
             "expertise": ["Automation Bots", "Web Development", "API Design"],
             "databases": ["MongoDB", "MySQL", "PostgreSQL"],
-            "tools": ["Docker", "Git", "VS Code", "Linux"],
-            "currently_learning": ["AI/ML", "Cloud Architecture", "DevOps"]
+            "tools": ["Docker", "Git", "VS Code", "Linux", "VPS Hosting"],
+            "infrastructure": ["VPS Management", "Linux Administration", "Server Deployment"],
+            "currently_learning": ["AI/ML", "Cloud Architecture", "Advanced DevOps"]
         }
         
         self.life_motto = "Code with passion, automate with purpose! 🚀"
@@ -60,6 +61,8 @@ class DeveloperProfile:
         return {
             "💼": "Building intelligent automation systems",
             "🎯": "Optimizing workflows & processes",
+            "🖥️": "Managing VPS infrastructure & deployments",
+            "🐧": "Mastering Linux system administration",
             "📚": "Exploring cutting-edge technologies",
             "☕": "Fueled by coffee and curiosity",
             "🌱": "Always learning, always growing"
@@ -106,7 +109,12 @@ me.connect()
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,nginx,bash" />
+</p>
+
+### 🌐 Hosting & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,digitalocean,cloudflare,ubuntu,debian,redhat,ansible,jenkins" />
 </p>
 
 </div>
@@ -123,7 +131,7 @@ me.connect()
 <!-- Animated Cards with GIFs -->
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 
@@ -137,7 +145,7 @@ me.connect()
 • **Data Pipeline Automation**  
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 
@@ -151,7 +159,7 @@ me.connect()
 • **Database Optimization**  
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 
@@ -163,6 +171,20 @@ me.connect()
 • **Scalability Engineering**  
 • **DevOps Implementation**  
 • **Monitoring & Analytics**  
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+
+### 🖥️ Infrastructure & Hosting
+
+• **VPS Server Management**  
+• **Linux System Administration**  
+• **Server Deployment & Configuration**  
+• **Network Security & Hardening**  
+• **Load Balancing & Scaling**  
+• **Backup & Recovery Solutions**  
 
 </td>
 </tr>
@@ -253,6 +275,8 @@ me.connect()
 | 🔌 **API Integration** | Advanced | ![](https://geps.dev/progress/87?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
 | 🗄️ **Database Management** | Intermediate | ![](https://geps.dev/progress/80?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
 | 🐳 **DevOps & Docker** | Intermediate | ![](https://geps.dev/progress/70?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🖥️ **VPS & Linux Administration** | Intermediate | ![](https://geps.dev/progress/78?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🔒 **Server Security & Hardening** | Intermediate | ![](https://geps.dev/progress/72?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
 | ☁️ **Cloud Architecture** | Learning | ![](https://geps.dev/progress/65?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
 | 🧠 **AI/ML Integration** | Learning | ![](https://geps.dev/progress/60?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
 
@@ -269,7 +293,7 @@ me.connect()
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
 
@@ -279,7 +303,7 @@ Writing maintainable,
 elegant solutions
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
 
@@ -289,7 +313,7 @@ Maximizing efficiency
 through intelligent systems
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 
@@ -299,7 +323,7 @@ Creating solutions that
 grow with needs
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
 
@@ -307,6 +331,16 @@ grow with needs
 *"Stay curious, stay relevant"*  
 Always exploring  
 cutting-edge tech
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+
+**Infrastructure Excellence**  
+*"Stable, secure, scalable"*  
+Building robust  
+server environments
 
 </td>
 </tr>
