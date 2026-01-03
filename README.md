@@ -3,8 +3,12 @@
 <!-- Animated Wave Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,10&height=250&section=header&text=Daniel%20K&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20・%20Automation%20Architect%20・%20Innovation%20Engineer&descAlignY=58&descSize=22"/>
 
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Adaptive Typing Animation for Light/Dark Mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8" />
+</picture>
 
 <br/>
 
@@ -223,10 +227,11 @@ me.connect()
 
 <!-- Contribution Snake Animation -->
 <!-- Contribution Snake Animation -->
+<!-- Adaptive Typing Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daneil-k/daneil-k/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8" />
 </picture>
 
 <div align="center">
