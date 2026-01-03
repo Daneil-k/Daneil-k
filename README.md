@@ -5,9 +5,9 @@
 
 <!-- Adaptive Typing Animation - Works in Both Light and Dark Mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=9370DB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=4169E1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=9370DB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+My+Digital+Universe+%F0%9F%8C%8C;Python+Developer+%E2%9A%A1+JavaScript+Expert;Automation+Specialist+%F0%9F%A4%96+Bot+Creator;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80;Let's+Create+Something+Extraordinary+%E2%9C%A8" />
 </picture>
 
 <br/>
@@ -180,31 +180,31 @@ me.connect()
 <!-- GitHub Stats - Adaptive Theme -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=default&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=000000&count_private=true&include_all_commits=true&rank_icon=github">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=9370DB&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=default&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=000000&count_private=true&include_all_commits=true&rank_icon=github">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=radical&hide_border=true&background=0D1117&stroke=9370DB&ring=9370DB&fire=FF6B6B&currStreakLabel=9370DB">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=default&hide_border=true&stroke=4169E1&ring=4169E1&fire=FF6B6B&currStreakLabel=4169E1">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=radical&hide_border=true&background=0D1117&stroke=9370DB&ring=9370DB&fire=FF6B6B&currStreakLabel=9370DB" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=default&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daneil-k&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&langs_count=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=default&hide_border=true&title_color=4169E1&text_color=000000&langs_count=10">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=FFFFFF&langs_count=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=default&hide_border=true&title_color=00D9FF&text_color=000000&langs_count=10">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
   </picture>
 </p>
 
 <!-- Animated Activity Graph - Adaptive -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=9370db&line=9370db&point=ffffff&area=true&area_color=9370db">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Activity&hide_border=true&bg_color=ffffff&color=4169e1&line=4169e1&point=000000&area=true&area_color=4169e1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=9370db&line=9370db&point=ffffff&area=true&area_color=9370db" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Activity&hide_border=true&bg_color=ffffff&color=00d9ff&line=00d9ff&point=000000&area=true&area_color=00d9ff">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="100%"/>
 </picture>
 
 <!-- Contribution Snake Animation - Adaptive Colors -->
@@ -245,16 +245,16 @@ me.connect()
 
 | **Skill Domain** | **Level** | **Progress** |
 |:---|:---|:---|
-| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python Development** | Advanced | ![](https://geps.dev/progress/90?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| <img src="https://skillicons.dev/icons?i=javascript" width="25"/> **JavaScript & Node.js** | Advanced | ![](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| <img src="https://skillicons.dev/icons?i=java" width="25"/> **Java Programming** | Intermediate | ![](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| 🤖 **Automation & Bots** | Expert | ![](https://geps.dev/progress/95?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| 🌐 **Web Development** | Advanced | ![](https://geps.dev/progress/88?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| 🔌 **API Integration** | Advanced | ![](https://geps.dev/progress/87?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| 🗄️ **Database Management** | Intermediate | ![](https://geps.dev/progress/80?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| 🐳 **DevOps & Docker** | Intermediate | ![](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| ☁️ **Cloud Architecture** | Learning | ![](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
-| 🧠 **AI/ML Integration** | Learning | ![](https://geps.dev/progress/60?dangerColor=800080&warningColor=ff00ff&successColor=9370db) |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python Development** | Advanced | ![](https://geps.dev/progress/90?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| <img src="https://skillicons.dev/icons?i=javascript" width="25"/> **JavaScript & Node.js** | Advanced | ![](https://geps.dev/progress/85?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| <img src="https://skillicons.dev/icons?i=java" width="25"/> **Java Programming** | Intermediate | ![](https://geps.dev/progress/75?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🤖 **Automation & Bots** | Expert | ![](https://geps.dev/progress/95?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🌐 **Web Development** | Advanced | ![](https://geps.dev/progress/88?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🔌 **API Integration** | Advanced | ![](https://geps.dev/progress/87?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🗄️ **Database Management** | Intermediate | ![](https://geps.dev/progress/80?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🐳 **DevOps & Docker** | Intermediate | ![](https://geps.dev/progress/70?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| ☁️ **Cloud Architecture** | Learning | ![](https://geps.dev/progress/65?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
+| 🧠 **AI/ML Integration** | Learning | ![](https://geps.dev/progress/60?dangerColor=800080&warningColor=00BFFF&successColor=00D9FF) |
 
 </div>
 
