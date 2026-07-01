@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Daniel K command center banner" src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&text=Daniel%20K&fontSize=78&fontAlignY=38&desc=Automation%20Engineer%20%7C%20Full%20Stack%20Builder%20%7C%20Infrastructure%20Operator&descAlignY=58&descSize=18&color=0:020617,45:0e7490,100:84cc16&fontColor=ffffff&stroke=22d3ee&strokeWidth=1" />
+<img width="100%" alt="SSK command center banner" src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&text=SSK&fontSize=78&fontAlignY=38&desc=Automation%20Engineer%20%7C%20Full%20Stack%20Builder%20%7C%20Infrastructure%20Operator&descAlignY=58&descSize=18&color=0:020617,45:0e7490,100:84cc16&fontColor=ffffff&stroke=22d3ee&strokeWidth=1" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=900&height=45&lines=I+turn+manual+work+into+reliable+systems.;Bots%2C+APIs%2C+dashboards%2C+deployments.;Built+for+speed.+Structured+for+scale.">
@@ -128,13 +128,13 @@ flowchart LR
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=a3e635&text_color=e5e7eb&icon_color=67e8f9">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=4d7c0f&text_color=020617&icon_color=0e7490">
-  <img height="175" alt="Daniel K GitHub stats" src="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=a3e635&text_color=e5e7eb&icon_color=67e8f9">
+  <img height="175" alt="SSK GitHub stats" src="https://github-readme-stats.vercel.app/api?username=daneil-k&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&title_color=a3e635&text_color=e5e7eb&icon_color=67e8f9">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=a3e635&text_color=e5e7eb">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=4d7c0f&text_color=020617">
-  <img height="175" alt="Daniel K top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=a3e635&text_color=e5e7eb">
+  <img height="175" alt="SSK top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneil-k&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=a3e635&text_color=e5e7eb">
 </picture>
 
 <br>
@@ -142,7 +142,7 @@ flowchart LR
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&hide_border=true&bg_color=00000000&color=e5e7eb&line=a3e635&point=67e8f9&area=true&area_color=0e7490&custom_title=Build%20Signal">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&hide_border=true&bg_color=ffffff&color=020617&line=4d7c0f&point=0e7490&area=true&area_color=a3e635&custom_title=Build%20Signal">
-  <img width="100%" alt="Daniel K contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&hide_border=true&bg_color=00000000&color=e5e7eb&line=a3e635&point=67e8f9&area=true&area_color=0e7490&custom_title=Build%20Signal">
+  <img width="100%" alt="SSK contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=daneil-k&hide_border=true&bg_color=00000000&color=e5e7eb&line=a3e635&point=67e8f9&area=true&area_color=0e7490&custom_title=Build%20Signal">
 </picture>
 
 </div>
@@ -154,7 +154,7 @@ flowchart LR
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=daneil-k&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=daneil-k&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=7">
-      <img alt="Daniel K GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=daneil-k&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7">
+      <img alt="SSK GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=daneil-k&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7">
     </picture>
   </div>
 </details>
