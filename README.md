@@ -49,15 +49,6 @@
   </tr>
 </table>
 
-```mermaid
-flowchart LR
-    A[Manual workflow] --> B[Automation logic]
-    B --> C[API layer]
-    C --> D[Dashboard or bot]
-    D --> E[Deployed system]
-    E --> F[Measured output]
-```
-
 ## Systems
 
 <table>
